@@ -10,6 +10,7 @@ namespace LibreriaClassiGioco
         private Razza razza { get; set; }
         public Personaggio(string n,Razza r)
         {
+            exp = 1;
             vita = 100;
             nome = n;
             razza = r;
