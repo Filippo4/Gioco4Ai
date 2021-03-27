@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LibreriaClassiGioco
 {
-    class Troll : Razza
+    public class Troll : Razza
     {
         public Schieramento schieramento;
         public Troll(Schieramento s)

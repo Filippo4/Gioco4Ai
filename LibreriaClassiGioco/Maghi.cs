@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LibreriaClassiGioco
 {
-    class Maghi : Razza
+    public class Maghi : Razza
     {
         public Schieramento schieramento;
         public Maghi(Schieramento s)

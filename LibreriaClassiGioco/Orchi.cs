@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LibreriaClassiGioco
 {
-    class Orchi : Razza
+    public class Orchi : Razza
     {
         public Schieramento schieramento;
         public Orchi(Schieramento s)

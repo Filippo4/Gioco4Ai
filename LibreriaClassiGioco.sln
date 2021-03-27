@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaClassiGioco", "LibreriaClassiGioco\LibreriaClassiGioco.csproj", "{99B76761-E46D-4077-9326-04EE7DE8DE1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaClassiGioco", "LibreriaClassiGioco\LibreriaClassiGioco.csproj", "{99B76761-E46D-4077-9326-04EE7DE8DE1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestGioco4AI", "ConsoleTestGioco4AI\ConsoleTestGioco4AI.csproj", "{0617AEC3-A2D6-4684-84C2-D6B9F79BBC26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{99B76761-E46D-4077-9326-04EE7DE8DE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B76761-E46D-4077-9326-04EE7DE8DE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B76761-E46D-4077-9326-04EE7DE8DE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0617AEC3-A2D6-4684-84C2-D6B9F79BBC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0617AEC3-A2D6-4684-84C2-D6B9F79BBC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0617AEC3-A2D6-4684-84C2-D6B9F79BBC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0617AEC3-A2D6-4684-84C2-D6B9F79BBC26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

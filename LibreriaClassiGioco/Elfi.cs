@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LibreriaClassiGioco
 {
-    class Elfi :Razza 
+    public class Elfi :Razza 
     {
         public Schieramento schieramento;
         public Elfi(Schieramento s)
